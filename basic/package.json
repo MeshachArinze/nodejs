@@ -1,0 +1,21 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "basic of nodejs project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MeshachArinze"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Meshach Ekene Arinze",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
